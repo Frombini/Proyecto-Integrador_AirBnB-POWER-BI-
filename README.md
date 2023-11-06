@@ -23,4 +23,4 @@ Mediante el proceso EDA (El análisis exploratorio de datos, que implica el uso 
 
 Enlace a la carpeta
 
-https://drive.google.com/drive/folders/1O6OFHrhxCRzJpd-6hIKUz2YgDxoHz8ex?usp=drive_link
+https://drive.google.com/drive/folders/10nLaQTqwi-TO8_f_1K8Fyr7RIHu9Dw-J?usp=drive_link
