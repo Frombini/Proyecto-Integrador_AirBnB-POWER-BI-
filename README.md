@@ -24,3 +24,8 @@ Mediante el proceso EDA (El análisis exploratorio de datos, que implica el uso 
 Enlace a la carpeta
 
 https://drive.google.com/drive/folders/10nLaQTqwi-TO8_f_1K8Fyr7RIHu9Dw-J?usp=drive_link
+
+
+Trabajo en colaboración  y contribucion en las prácticas y recopilaron de evidencias 
+Johanna Rangel - https://github.com/JohannaRangel
+Grethel Sanchez - https://github.com/KGSanchezM
